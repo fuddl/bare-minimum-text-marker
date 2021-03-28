@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,eACF,CAEA,KACE,sBAAuB,CACvB,WAAa,CACb,gBAAiB,CACjB,+BACF","file":"main.6214c4fe.chunk.css","sourcesContent":["body {\n  margin: 0;\n  overflow: hidden;\n}\n\ntext {\n  font-family: sans-serif;\n  stroke: black;\n  stroke-width: 2px;\n  paint-order: markers stroke fill;\n}"]}
