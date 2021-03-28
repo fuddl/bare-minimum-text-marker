@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bare-minimum-text-marker/static/css/main.58c40398.chunk.css",
-    "main.js": "/bare-minimum-text-marker/static/js/main.0bbf5775.chunk.js",
-    "main.js.map": "/bare-minimum-text-marker/static/js/main.0bbf5775.chunk.js.map",
+    "main.js": "/bare-minimum-text-marker/static/js/main.a9eee654.chunk.js",
+    "main.js.map": "/bare-minimum-text-marker/static/js/main.a9eee654.chunk.js.map",
     "runtime-main.js": "/bare-minimum-text-marker/static/js/runtime-main.d3bcd89a.js",
     "runtime-main.js.map": "/bare-minimum-text-marker/static/js/runtime-main.d3bcd89a.js.map",
     "static/js/2.f252d191.chunk.js": "/bare-minimum-text-marker/static/js/2.f252d191.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d3bcd89a.js",
     "static/js/2.f252d191.chunk.js",
     "static/css/main.58c40398.chunk.css",
-    "static/js/main.0bbf5775.chunk.js"
+    "static/js/main.a9eee654.chunk.js"
   ]
 }
