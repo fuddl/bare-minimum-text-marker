@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/bare-minimum-text-marker/static/css/main.58c40398.chunk.css",
-    "main.js": "/bare-minimum-text-marker/static/js/main.888e2710.chunk.js",
-    "main.js.map": "/bare-minimum-text-marker/static/js/main.888e2710.chunk.js.map",
+    "main.js": "/bare-minimum-text-marker/static/js/main.bf02370e.chunk.js",
+    "main.js.map": "/bare-minimum-text-marker/static/js/main.bf02370e.chunk.js.map",
     "runtime-main.js": "/bare-minimum-text-marker/static/js/runtime-main.d3bcd89a.js",
     "runtime-main.js.map": "/bare-minimum-text-marker/static/js/runtime-main.d3bcd89a.js.map",
-    "static/js/2.f252d191.chunk.js": "/bare-minimum-text-marker/static/js/2.f252d191.chunk.js",
-    "static/js/2.f252d191.chunk.js.map": "/bare-minimum-text-marker/static/js/2.f252d191.chunk.js.map",
+    "static/js/2.08ffbd71.chunk.js": "/bare-minimum-text-marker/static/js/2.08ffbd71.chunk.js",
+    "static/js/2.08ffbd71.chunk.js.map": "/bare-minimum-text-marker/static/js/2.08ffbd71.chunk.js.map",
     "index.html": "/bare-minimum-text-marker/index.html",
     "static/css/main.58c40398.chunk.css.map": "/bare-minimum-text-marker/static/css/main.58c40398.chunk.css.map",
-    "static/js/2.f252d191.chunk.js.LICENSE.txt": "/bare-minimum-text-marker/static/js/2.f252d191.chunk.js.LICENSE.txt"
+    "static/js/2.08ffbd71.chunk.js.LICENSE.txt": "/bare-minimum-text-marker/static/js/2.08ffbd71.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3bcd89a.js",
-    "static/js/2.f252d191.chunk.js",
+    "static/js/2.08ffbd71.chunk.js",
     "static/css/main.58c40398.chunk.css",
-    "static/js/main.888e2710.chunk.js"
+    "static/js/main.bf02370e.chunk.js"
   ]
 }
